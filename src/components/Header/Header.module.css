@@ -1,0 +1,122 @@
+.icon_heading{
+display: flex;
+gap: 10px;
+
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    background-color: #010101;
+    padding: 14px;
+    border: 1px solid #444857;
+}
+.follow{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 1.6px;
+    background-color: hsl(139.41deg 58.62% 54.51%);
+    border: none;
+    padding: 0.2px 5.4px 0.2px 5.4px;
+    gap:2px;
+}
+.follow:hover{
+   
+    background-color: hsl(139.62deg 59.09% 34.51%);
+    color: white;
+}
+.div2{
+    display: flex;
+    gap: 3px;
+    margin-left: 50px;
+    margin-top: -25px;
+}
+.p2{
+    color: #9b9dad;
+    font-size: 13px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.p2:hover{
+    color: white;
+}
+.p1{
+    color: white;
+    font-size: 16.5px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.right_div{
+   
+    display: flex;
+    gap: 8px;
+}
+.right_btn1{
+    font-size: 17px;
+    background-color: #444857;
+    padding: 12px;
+    border-radius: 8px;
+    border: none;
+    display: flex;
+    justify-content: space-around;
+    gap: 4px;
+    color: white;
+}
+.right_btn_sign_up{
+    font-size: 17px;
+    background-color: hsl(139.41deg 58.62% 54.51%);
+    padding: 12px;
+    border-radius: 8px;
+    border: none;
+    display: flex;
+    justify-content: space-around;
+    gap: 4px;
+    color: black;
+}
+.right_btn_sign_up:hover{
+    cursor: pointer;
+    color: white;
+    background-color: hsl(139.62deg 59.09% 34.51%);
+}
+.right_btn1:hover{
+    cursor: pointer;
+    background-color: #5a5f73;
+}
+
+.active {
+    background-color: green;
+}
+
+.right_btn3{
+    font-size: 17px;
+    background-color: #444857;
+    padding: 12px;
+    border-radius: 0px 8px 8px 0px;
+    border: none;
+    display: flex;
+    justify-content: space-around;
+    gap: 4px;
+    color: white; 
+}
+.right_btn3:hover{
+    cursor: pointer;
+    background-color: #5a5f73;
+}
+.right_btn2{
+    font-size: 17px;
+    background-color: #444857;
+    padding: 12px;
+    border-radius: 8px 0px 0px 8px;
+    border: none;
+    display: flex;
+    justify-content: space-around;
+    gap: 4px;
+    color: white; 
+}
+.right_btn2:hover{
+    cursor: pointer;
+    background-color: #5a5f73;
+}
+.btn{
+    display: flex;
+    gap: 1px;
+}

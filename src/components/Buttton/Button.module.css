@@ -1,0 +1,14 @@
+.btn1{
+    padding: 0.8rem 1rem;
+    background-color:#444857;
+    color:#ffffff;
+    border-radius: 4px;
+    font-size: 1rem;
+    font-weight: 600;
+    font-family: inherit;
+    gap: 6px;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
